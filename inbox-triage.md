@@ -205,8 +205,10 @@ Examples include:
 
 New subscription messages should remain visible in the Inbox initially.
 
-After **30 days**, archive subscription messages unless they have been
-explicitly protected with `!!Triage/Keep` or remain actionable.
+After **7 days**, archive subscription messages unless they have been
+explicitly protected with `!!Triage/Keep`, `!!Triage/Action`, or
+`!!Triage/Important`, remain actionable, or contain an upcoming event
+that may still matter. Preserve their read/unread state.
 
 Do not automatically unsubscribe from intentional subscriptions.
 
