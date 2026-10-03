@@ -152,6 +152,14 @@ transfer, or explicitly requires user action. Standard boilerplate
 explaining what to do if the user did not authorize an otherwise routine
 transfer does not by itself make the message exceptional.
 
+During backlog recovery, unread calendar or event notifications may be
+marked read and archived when the event has a specific date that is
+clearly in the past.
+
+Do not apply this rule to future events, recurring events whose series
+may still be active, cancellations or changes that may still matter, or
+messages where the event status or date is unclear.
+
 Backlog recovery must be explicitly approved by the user. Prefer
 processing one clearly defined category at a time, beginning with
 low-risk categories such as old completed shipping and delivery
