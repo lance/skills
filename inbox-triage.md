@@ -216,6 +216,25 @@ classification is uncertain.
 If it is unclear whether something is an intentional subscription or
 unwanted marketing, leave it alone.
 
+### Nextdoor
+
+Nextdoor mail is low-priority neighborhood browsing content. Retain all
+Nextdoor messages received within the most recent **24 hours**
+in their current location and read state.
+
+Move Nextdoor messages older than 24 hours to Trash, whether read or
+unread and whether in the Inbox or archived. Identify Nextdoor by the
+sender's `nextdoor.com` domain or its subdomains, not by mentions of
+Nextdoor in other correspondence.
+
+This sender-specific rule takes precedence over normal classification
+and retention rules, including Important, Personal, Subscription, and
+transactional-mail rules. `!!Triage/Keep` and `!!Triage/Action` still
+protect messages from cleanup.
+
+Do not unsubscribe from Nextdoor; the recent messages remain useful for
+occasional neighborhood browsing. Never permanently delete messages.
+
 ### Personal Correspondence
 
 Messages primarily written by a person directly to the user should never
