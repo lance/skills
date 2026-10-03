@@ -235,6 +235,26 @@ protect messages from cleanup.
 Do not unsubscribe from Nextdoor; the recent messages remain useful for
 occasional neighborhood browsing. Never permanently delete messages.
 
+### Political Mail
+
+Political campaign, party, PAC, fundraising, survey, petition, advocacy,
+and political newsletter mail is unwanted regardless of political
+viewpoint. Retain messages received within the most recent **24 hours**
+in their current location and read state.
+
+Move older political mail to Trash, whether read or unread and whether
+in the Inbox or archived. Identify it from the actual sender and message
+content; a political name or keyword alone is insufficient.
+
+This rule takes precedence over normal Promotion and Subscription
+retention rules. Preserve `!!Triage/Keep`, `!!Triage/Action`, and
+`!!Triage/Important` messages. Do not treat official government service
+notices, voting or registration confirmations, donation receipts,
+account/security notices, or personal correspondence as campaign mail.
+When uncertain, leave the message alone.
+
+Do not unsubscribe under this rule. Never permanently delete messages.
+
 ### Personal Correspondence
 
 Messages primarily written by a person directly to the user should never
