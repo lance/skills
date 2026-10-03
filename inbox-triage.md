@@ -305,6 +305,22 @@ More specific classifications such as `!!Triage/Important/Medical` or
 `!!Triage/Important/Financial` may be introduced later if actual usage
 demonstrates that they are useful.
 
+### State Farm
+
+Lance is handling an ongoing house-fire claim. Apply `!!Triage/Important`
+to all verified State Farm mail, including agent correspondence, claim
+updates, policy and billing notices, payment notifications, and marketing.
+
+Identify State Farm from the actual sender and message content, including
+verified State Farm notices delivered through claims or payment partners.
+A display name or mention of State Farm alone is insufficient.
+
+This rule takes precedence over Promotion and commercial-junk cleanup.
+Never automatically trash or unsubscribe from State Farm mail. Preserve
+its location and read/unread state when applying the label. Keep messages
+about the ongoing claim in the Inbox while their relevance or required
+action remains unresolved; the existing Important and Action rules apply.
+
 ### Two-Factor Authentication
 
 One-time authentication codes and similar 2FA messages have extremely
