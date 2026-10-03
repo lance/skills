@@ -173,7 +173,7 @@ the Inbox.
 
 Apply `!!Triage/Promotion` and archive it.
 
-Retain promotional messages for no more than **60 days**.
+Retain promotional messages for no more than **10 days**.
 
 Retain a maximum of **3 promotional messages per sender**. When more
 than three exist, keep the three most recent or relevant and trash the
